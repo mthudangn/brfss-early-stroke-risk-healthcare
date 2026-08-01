@@ -1,0 +1,5 @@
+model,roc_auc
+Full logistic regression,0.5253
+Optimised logistic regression,0.5378
+Random forest,0.5041
+XGBoost,0.5148
