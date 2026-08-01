@@ -1,0 +1,5 @@
+source("requirements.R")
+source("scripts/01_prepare_data.R")
+source("scripts/02_run_eda.R")
+source("scripts/03_train_models.R")
+source("scripts/04_score_brfss.R")
