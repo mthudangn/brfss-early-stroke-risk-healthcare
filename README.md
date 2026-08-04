@@ -71,7 +71,7 @@ data/raw/brfss2020.csv
 
 The first dataset must contain the structured stroke variables used in the preprocessing pipeline. The BRFSS file must use the 2020 LLCP variable names documented in the official codebook.
 
-A small de-identified sample is included only to show the processed schema. See [`data/README.md`](data/README.md) and [`docs/DATA_CARD.md`](docs/DATA_CARD.md).
+A small de-identified sample is included only to show the processed schema. See [`README.md`](README.md) and [`DATA_CARD.md`](DATA_CARD.md).
 
 ## Quick start
 
