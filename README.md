@@ -114,7 +114,7 @@ source("scripts/04_score_brfss.R")
 8. Compare logistic regression, random forest and XGBoost using ROC-AUC.
 9. Use the selected model to generate probability-based research scores.
 
-Full details are available in [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md).
+Full details are available in [`METHODOLOGY.md`](METHODOLOGY.md).
 
 ## Limitations
 
